@@ -1,5 +1,7 @@
-# NeuCFlow
-Neural Consciousness Flow
+# DPMPN
+Dynamically Pruned Message Passing Networks
+
+
 
 ## Training and Evaluating
 
