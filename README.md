@@ -1,7 +1,14 @@
 # DPMPN
 Dynamically Pruned Message Passing Networks
 
+The code is based on our pervious naming scheme of our model. Then, we change a lot of terms that might cause confusion when refering to components in our model for a better and clearer statement in our paper. Here is the list of terminology between the previously used and the currently used:
 
+- `unconsciousness flow` (previous): `IGNN` (now)
+- `consciousness flow`: `AGNN`
+- `attended nodes`: nodes in the attending-from horizon
+- `seen nodes`: nodes in the attending-to horizon
+- `memorized nodes`: visited nodes
+- `scanned edges`: edges of neighborhood
 
 ## Training and Evaluating
 
