@@ -1,7 +1,7 @@
 # DPMPN
 Dynamically Pruned Message Passing Networks
 
-The code is based on our pervious naming scheme of our model. Then, we change a lot of terms that might cause confusion when refering to components in our model for a better and clearer statement in our paper. Here is the list of terminology between the previously used and the currently used:
+The code is based on our pervious naming scheme of our model. Then, we changed a lot of terms that might cause confusion when refering to components in our model in order to give a better and clearer statement in our paper. Here is the list of terminology between the previously used and the currently used:
 
 - `unconsciousness flow` (previous): `IGNN` (now)
 - `consciousness flow`: `AGNN`
